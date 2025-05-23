@@ -1,0 +1,6 @@
+.venv
+test_env
+__pycache__
+.claude
+v3-Extract_Project_Code.py
+Project-File-Content.txt
