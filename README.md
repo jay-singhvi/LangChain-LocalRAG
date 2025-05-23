@@ -1,4 +1,4 @@
-# Local RAG System Setup Guide
+# Web Scrapping and Local RAG System Setup Guide
 
 ## Quick Setup
 
